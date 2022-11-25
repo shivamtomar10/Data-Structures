@@ -17,6 +17,24 @@ void patternPrinting(int max,int min){
             max--;
         }
     }
+
+    //2 method
+
+    // for(int i=0;i<no_of_lines/2;i++){
+    //     for(int j=0;j<min;j++){
+    //         cout<<"*"<<" ";
+    //     }
+    //     min++;
+    //     cout<<endl;
+    // }
+
+    // for(int i=0;i<no_of_lines/2;i++){
+    //     for(int j=0;j<max;j++){
+    //         cout<<"*"<<" ";
+    //     }
+    //     max--;
+    //     cout<<endl;
+    // }
 }
 int main(){
     
